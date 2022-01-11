@@ -13,6 +13,7 @@ public class DemoApplication {
         System.out.println("demo3");
         System.out.println("master demo3");
         System.out.println("demo3");
+        System.out.println("push test");
     }
 
 }
