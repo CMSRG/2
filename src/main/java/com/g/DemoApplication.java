@@ -11,6 +11,7 @@ public class DemoApplication {
         System.out.println("demo");
         System.out.println("demo2");
         System.out.println("demo3");
+        System.out.println("demo3");
     }
 
 }
